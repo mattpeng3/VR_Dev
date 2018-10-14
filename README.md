@@ -1,4 +1,4 @@
-# Projects done in the introductory to virtual reality development course CS-198
+# Projects done in the Introductory to Virtual Reality Development Course
 
 For unity projects: 
 **Download and open Unity**
