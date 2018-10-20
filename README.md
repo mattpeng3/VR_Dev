@@ -9,7 +9,7 @@ For Maya Graphics Projects(.mb):
 **Download and open Maya**
 -download the Maya project and open it, this should auto open Maya
 
-### For the Pong Game
+### For the Unity Pong Game
 - Use W or up key to move right
 - Use S or down key to move left
 - First to 5 Wins!
